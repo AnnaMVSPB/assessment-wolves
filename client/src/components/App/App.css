@@ -1,16 +1,4 @@
 
-
-div{
-  display: flex;
-  align-items: center;
-  flex-direction: column;
-  justify-content: center;
-  width: 400px;
-  height: 500px;
-  background-color:bisque;
-  color:black;
-  margin-bottom: 30px;
-}
 img{
   width: 60%;
   height: 60%;
